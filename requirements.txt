@@ -1,0 +1,11 @@
+fastapi==0.142.2
+uvicorn==0.54.0
+pillow==12.3.0
+ImageHash==4.3.2
+playwright==1.63.0
+pyobjc-core==12.2.2
+pyobjc-framework-Cocoa==12.2.2
+pyobjc-framework-Quartz==12.2.2
+qrcode==8.2
+yt-dlp==2026.8.19
+imageio-ffmpeg==0.6.0

@@ -1,0 +1,18 @@
+.venv/
+browser-profile/
+prepared/
+config.json
+control-url.txt
+*.log
+*.log.*
+__pycache__/
+*.pyc
+.DS_Store
+RecordWebVoice
+CityWalk Captions.app/Contents/MacOS/
+CityWalk Companion.app/Contents/MacOS/
+*.mp4
+*.m4a
+*.mp3
+*.raw
+*.zip
